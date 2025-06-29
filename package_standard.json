@@ -1,0 +1,28 @@
+{
+  "name": "filesystem-mcp-standard",
+  "version": "1.0.0",
+  "description": "Standard Filesystem MCP Server for Claude Desktop - Safe local file system access following MCP guidelines",
+  "main": "filesystem_mcp_standard.py",
+  "scripts": {
+    "start": "python filesystem_mcp_standard.py",
+    "install": "python install_standard.py",
+    "test": "python -c \"import filesystem_mcp_standard; print('Import successful')\""
+  },
+  "keywords": [
+    "mcp",
+    "filesystem", 
+    "claude",
+    "files",
+    "standard",
+    "safe"
+  ],
+  "author": "Claude MCP Team",
+  "license": "MIT",
+  "engines": {
+    "python": ">=3.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-repo/filesystem-mcp-standard"
+  }
+}

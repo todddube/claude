@@ -1,0 +1,15 @@
+# Filesystem MCP Server - Standard Version
+# No external dependencies required - uses only Python standard library
+# 
+# Minimum Python version: 3.8+
+#
+# Standard library modules used:
+# - asyncio (async operations)
+# - json (JSON processing)
+# - logging (logging framework)
+# - os, sys (system operations)
+# - pathlib (path handling)
+# - typing (type hints)
+#
+# This implementation follows standard MCP guidelines and provides
+# safe filesystem access for Claude Desktop integration.
